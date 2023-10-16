@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="naruto.css">
+  <title>NARUTO</title>
+</head>
+<body class="s3">
+ <nav>
+   <span><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjX0iWBVsMnzQ4khSCmrwiB8d8cV8QSqKmXw&usqp=CAU" height="50px" width="50px"></span>
+   <div class="logo">&nbsp;&nbsp;ANIMENOW</div>
+ 
+   <span class="menubtn" onclick="openNav()">&#9776;</span>
+ 
+   <div class="navLinks">
+     <ul>
+       <li><a href="#">Fandom</a></li>
+       <li><a href="#">Merchandise</a></li>
+       <li><a href="#">More Animes</a></li>
+       <li><a href="#">Contact Us</a></li>
+       <button type="button">Login</button>
+     </ul>
+   </div>
+ </nav>
+  
+   <div class="sideNav" id="sidenav">
+     <a href="#" class="closeBtn" onclick="closeNav()"> &#10006;</a>
+     <a href="#">Fandom</a>
+     <a href="#">Merchandise</a>
+     <a href="#">More Animes</a>
+     <a href="#">Contact Us</a>
+     <a href="#"><button type="button">Login</button> </a>
+   </div>
+   
+   
+   
+   <div class="row">
+     <div class="column1">
+       <h1>Naruto Shippuden </h1>
+       <p>It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.Come whatever may, Naruto will carry on with the fight for what is important to him, even at the expense of his own body, in the continuation of the saga about the boy who wishes to become Hokage</p>
+       
+     </div>
+
+   </div>
+   <div class="container">
+    <div class="video">
+      <iframe width="300" height="180" src="https://www.youtube.com/embed/Abjc7Ey-psM" title="TRAILER -  THE GREAT SHINOBI WAR || Naruto Shippuden - (CANCELLED)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <div class="content">
+      <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trailer</h2>
+    </div>
+   </div>
+   
+</body>
+</html>
