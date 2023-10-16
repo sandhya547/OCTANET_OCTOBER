@@ -9,7 +9,7 @@
 </head>
 <body class="s3">
  <nav>
-   <span><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjX0iWBVsMnzQ4khSCmrwiB8d8cV8QSqKmXw&usqp=CAU" height="50px" width="50px"></span>
+   <span><img src="https://github.com/sandhya547/OCTANET_OCTOBER/blob/b1f0d6d95f80ea2a137c18dcafb3221e757df51f/konoha.png" height="50px" width="50px"></span>
    <div class="logo">&nbsp;&nbsp;ANIMENOW</div>
  
    <span class="menubtn" onclick="openNav()">&#9776;</span>
